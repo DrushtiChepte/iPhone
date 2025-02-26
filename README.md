@@ -1,8 +1,34 @@
-# React + Vite
+# iPhone 15 Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 A visually stunning and interactive website showcasing the iPhone 15, built using Vite, React, GSAP, and Three.js.
 
-Currently, two official plugins are available:
+## 🛠 Tech Stack
+- **Vite** ⚡ - Fast and optimized development environment
+- **React** ⚛️ - Component-based UI development
+- **GSAP** 🎭 - Smooth animations and transitions
+- **Three.js** 🌍 - 3D models and interactive experiences
+- **Tailwind CSS v4** 🎨 - Utility-first styling (without a config file)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Installation & Setup
+1. **Clone the repository** 📥
+   ```sh
+   git clone https://github.com/your-username/iphone15-website.git
+   cd iphone15-website
+   ```
+2. **Install dependencies** 📦
+   ```sh
+   npm install
+   ```
+3. **Run the development server** 🏃‍♂️
+   ```sh
+   npm run dev
+   ```
+4. **Open in browser** 🌐
+   ```
+   http://localhost:5174
+   ```
+
+ ## 🎨 Features
+- 🎬 **Smooth Animations** (powered by GSAP)
+- 🌙 **Dark Mode & Responsive UI**
+- 🚀 **Super Fast Performance** (thanks to Vite)
